@@ -15,9 +15,9 @@ This project works for many goals. As an example, I used weight loss to demonstr
 ## Features
 - **Adaptive Mission Generation**:  
   Missions scale in difficulty based on total XP:  
-  - Easy (XP < 90): Low-reward missions (e.g., "Run 3 km")  
-  - Medium (XP < 225): Mid-reward missions (e.g., "Run 5 km")  
-  - Hard (XP ≥ 225): High-reward missions (e.g., "Run 7 km")  
+  - Easy : Low-reward missions (e.g., "Run 3 km")  
+  - Medium : Mid-reward missions (e.g., "Run 5 km")  
+  - Hard: High-reward missions (e.g., "Run 7 km")  
 
 - **Mission Types**: 
   - Strength: Push-ups, sit-ups  
