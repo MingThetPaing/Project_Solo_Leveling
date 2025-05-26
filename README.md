@@ -50,12 +50,6 @@ Using python, the code is very easy to run on Google Colab, Jupyter Notebook or 
   - Ensure to click enter between each action!
 
 ## Data Structure used
-- **Tree Structure**: Implemented via nested DailyMission objects with children lists  
-  Represents a hierarchical mission system with:  
-  - Root node ("All Missions")  
-  - Category nodes ("Beginner", "Intermediate", "Advanced")  
-  - Leaf nodes (actual missions like "Run 3 km")  
-
 - **Queue (deque)**: Tracks missions to be completed in FIFO order  
 - **Lists**: 
   - Current available missions  
