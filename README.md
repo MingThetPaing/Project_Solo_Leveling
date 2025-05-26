@@ -53,8 +53,6 @@ Using python, the code is very easy to run on Google Colab, Jupyter Notebook or 
 - **Queue (deque)**: Tracks missions to be completed in FIFO order  
 - **Lists**: 
   - Current available missions  
-  - Children lists in each DailyMission node for tree structure  
-  - Temporary lists for mission selection  
 - **Dictionaries**:
   - Tracks XP per category levels  
   - Skill levels per category  
